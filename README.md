@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sample_framework
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# sample_framework_flutter
+Sample Framework Flutter Using GetX and Another library
+>>>>>>> 64bd090d7be3e3e2db05852bc62f79b3d423807c
