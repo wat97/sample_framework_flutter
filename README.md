@@ -1,8 +1,8 @@
-# sample_framework
+# Simple Framework Flutter
 
-A new Flutter project.
+A simple framework containing some commonly used libraries like getx for state management and dio for http clients and some other libraries
 
-## Getting Started
+## Features
 
 This project is a starting point for a Flutter application.
 
